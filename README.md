@@ -1,6 +1,6 @@
 <div align="center"/>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Beth+Ellen&duration=3000&pause=500&color=C39A5F&background=FFFFFF&center=true&vCenter=true&width=500&lines=Hug+me%2C+hug+me%2C+and+goodbye!;Between+friends+like+you+and+I;I'm+going+to+miss+you%2C+friend+of+mine!;Wish+I+didn't+have+to+say+byebye)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Beth+Ellen&duration=3000&pause=500&color=C39A5F&center=true&vCenter=true&width=500&lines=Hug+me%2C+hug+me%2C+and+goodbye!;Between+friends+like+you+and+I;I'm+going+to+miss+you%2C+friend+of+mine!;Wish+I+didn't+have+to+say+byebye)](https://git.io/typing-svg)<br>
 <img src="https://file.garden/ZiyMFQQoJTlsDCta/graphics/Hugme" /> <br>
 
 ![](https://komarev.com/ghpvc/?username=my-jarona&label=F$&color=DB8940)
